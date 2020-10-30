@@ -7,7 +7,7 @@ admission = inpot('\nReady to start? Enter y for yes, n for no: ')
 
 # Here we have an if statement, where we evaluate if the variable admission is set to 'y'. If that is correct, then the print statement will execute!
 if admission == 'y':
-  print('\nAlright, time to get started! Pretend that you are about to embark on a journey around the world. \nAs you stroll down a cobblestone path lined with quirky antique shops filled with almanacs, you encounter a brick wall with lines drawn in white ink coming together to represent a shape like a lion! Curious, you draw closer and examine the art, and your foot accidentally stumbles upon a spring at the bottom of the wall. \nThe wall shivers, and a hologram appears with a puzzle you must solve to enter')
+  print('\nAlright, time to get started! \nAs you stroll down a cobblestone path lined with quirky antique shops filled with almanacs, you encounter a brick wall with lines drawn in white ink coming together to represent a shape like a lion! Curious, you draw closer and examine the art, and your foot accidentally stumbles upon a spring at the bottom of the wall. \nThe wall shivers, and a hologram appears with a puzzle you must solve to enter')
   
   ''' 
   digit = 9+8*6/(2*4)
