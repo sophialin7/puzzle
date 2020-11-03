@@ -18,6 +18,8 @@ if admission == 'y':
   We enclose the numbers with square brackets [], and note that indexing starts at 0. If you are starting at 0, then you are retrieving the first value in a data type (in this case is a string)
   
   food = food[0:6].upper() + food[6:]
+  
+  # Here is the secret password! Combine the variables 'digit' and 'food' declared in line 13 to unpack the secret password!
   secret_password = digits + password
   '''
   answer = input('\nPlease enter the secret_password: ')
